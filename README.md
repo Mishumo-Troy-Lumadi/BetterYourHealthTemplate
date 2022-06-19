@@ -1,4 +1,6 @@
-# Next JS Template with Tailwind CSS
+# Better Your Health Next JS Template with Tailwind CSS
+
+built with the [Next JS Template with Tailwind CSS](https://github.com/Mishumo-Troy-Lumadi/NextJS-TailwindCSS-Template)
 
 ## Getting Started
 
@@ -7,7 +9,7 @@ Copy the snippet bellow and replace [your-project-name] with your project name
 > NOTE: Project name should be lower case
 
 ```bash
-npx create-next-app [your-project-name] -e https://github.com/Mishumo-Troy-Lumadi/NextJS-TailwindCSS-Template
+npx create-next-app [your-project-name] -e https://github.com/Mishumo-Troy-Lumadi/BetterYourHealthTemplate
 ```
 
 ## After Installation
