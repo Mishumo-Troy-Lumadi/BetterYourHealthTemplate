@@ -31,22 +31,22 @@ export default function Home() {
 					<Logo size='sm' {...{ variant }} />
 					<Row className='space-x-2'>
 						<Button
-							className='text-violet-900 hover:text-rose-900'
+							className='text-violet-900 hover:text-rose-900 bg-transparent hover:bg-transparent active:bg-transparent'
 							label='Home'
 							onClick={() => scroll(hero)}
 						/>
 						<Button
-							className='text-violet-900 hover:text-rose-900'
+							className='text-violet-900 hover:text-rose-900 bg-transparent hover:bg-transparent active:bg-transparent'
 							label='About'
 							onClick={() => scroll(about)}
 						/>
 						<Button
-							className='text-violet-900 hover:text-rose-900'
+							className='text-violet-900 hover:text-rose-900 bg-transparent hover:bg-transparent active:bg-transparent'
 							label='Services'
 							onClick={() => scroll(services)}
 						/>
 						<Button
-							className='text-violet-900 hover:text-rose-900'
+							className='text-violet-900 hover:text-rose-900 bg-transparent hover:bg-transparent active:bg-transparent'
 							label='Contact'
 							onClick={() => scroll(contact)}
 						/>
